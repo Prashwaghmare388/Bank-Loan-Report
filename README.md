@@ -1,4 +1,4 @@
-# Bank Loan Reports
+# Bank-Loan-Reports
 
 ## Project Objective
 Welcome to the Bank Loan Reports project, This repository contains a comprehensive analysis of bank loan data, providing dashboards and detailed metrics for better decision-making.
